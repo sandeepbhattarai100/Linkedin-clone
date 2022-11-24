@@ -1,0 +1,37 @@
+.post{
+background-color: white;
+margin-bottom: 10px;
+border-radius: 10px;
+padding: 15px;
+
+}
+.post-header{
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+         
+}
+.post-info {
+    margin-left: 10px;
+}
+.post-info >h2{
+    font-size: 15px;
+}
+.post-info > p{
+    font-size: 12px;
+    color: grey;
+}
+.post-body{
+    overflow-wrap: anywhere;
+}
+.post-button{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+.css-2s90m6-MuiAvatar-root{
+position: revert !important;
+}
